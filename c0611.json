@@ -1,0 +1,547 @@
+{
+  "Pad": {
+    "TotalYcCount": 25,
+    "TotalYxCount": 12,
+    "TotalYkCount": 4,
+    "TotalDDCount": 0,
+    "TotalParameterCount": 0,
+    "YcRatioEnable": 1,
+    "RecordingYkOpera": 0,
+    "LinkAddr": 1,
+    "SingleORDoubleInit": 0,
+    "LinkAddrLen": 2,
+    "VsqLen": 1,
+    "coTlen": 2,
+    "AsduLen": 2,
+    "InfoAddrLen": 3,
+    "YxType": 1,
+    "YcType": 13,
+    "DdType": 206,
+    "YkType": 45,
+    "T0TimeOut": 30,
+    "T1TimeOut": 60,
+    "T2TimeOut": 12,
+    "T3TimeOut": 20,
+    "k": 12,
+    "w": 8,
+    "baseyear": 2000,
+    "alldatainterval": 0,
+    "allddinterval": 0,
+    "setclockinterval": 0,
+    "testlinkinterval": 0,
+    "encrypt": 0,
+    "sendcos": 1,
+    "BackScan": 0,
+    "ThreadAfterSndDelayms": 100,
+    "ThreadAfterRcvDelayms": 100
+  },
+  "ParaInstruction": "v0.1运用园区",
+  "Para": [
+    {
+      "SN": 0,
+      "Running_info": [
+        {
+          "No": 1,
+          "Addr": 32800,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 2,
+          "Addr": 32801,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        }
+      ],
+      "Actionfixed_info": [
+        {
+          "No": 1,
+          "Addr": 33312,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        },
+        {
+          "No": 2,
+          "Addr": 33313,
+          "Desc": "测试1",
+          "Unit": "float4字节",
+          "Type": 38,
+          "MapAddr": 0
+        }
+      ]
+    }
+  ],
+  "FaultEventSubmission": [],
+  "YCDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[0]-A相电压_0.1V(进线侧UA1_保护采集)-实时库号[608]",
+      "Unit": null,
+      "Addr": 16385,
+      "Xishu": 1.0,
+      "RealDevNo": 608,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 0
+    },
+    {
+      "No": 1,
+      "Name": "设备[0]-B相电压_0.1V(进线侧UB1_保护采集)-实时库号[609]",
+      "Unit": null,
+      "Addr": 16386,
+      "Xishu": 1.0,
+      "RealDevNo": 609,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 1
+    },
+    {
+      "No": 2,
+      "Name": "设备[0]-C相电压_0.1V(进线侧UC1_保护采集)-实时库号[610]",
+      "Unit": null,
+      "Addr": 16387,
+      "Xishu": 1.0,
+      "RealDevNo": 610,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 2
+    },
+    {
+      "No": 3,
+      "Name": "设备[0]-A相电压_0.1V(负荷侧UA2_保护采集)-实时库号[581]",
+      "Unit": null,
+      "Addr": 16388,
+      "Xishu": 1.0,
+      "RealDevNo": 581,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 3
+    },
+    {
+      "No": 4,
+      "Name": "设备[0]-B相电压_0.1V(负荷侧UB2_保护采集)-实时库号[582]",
+      "Unit": null,
+      "Addr": 16389,
+      "Xishu": 1.0,
+      "RealDevNo": 582,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 4
+    },
+    {
+      "No": 5,
+      "Name": "设备[0]-C相电压_0.1V(负荷侧UC2_保护采集)-实时库号[583]",
+      "Unit": null,
+      "Addr": 16390,
+      "Xishu": 1.0,
+      "RealDevNo": 583,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 5
+    },
+    {
+      "No": 6,
+      "Name": "设备[0]-A相电流_0.01A(保护采集)-实时库号[585]",
+      "Unit": null,
+      "Addr": 16391,
+      "Xishu": 1.0,
+      "RealDevNo": 585,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 6
+    },
+    {
+      "No": 7,
+      "Name": "设备[0]-B相电流_0.01A(保护采集)-实时库号[586]",
+      "Unit": null,
+      "Addr": 16392,
+      "Xishu": 1.0,
+      "RealDevNo": 586,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 7
+    },
+    {
+      "No": 8,
+      "Name": "设备[0]-C相电流_0.01A(保护采集)-实时库号[587]",
+      "Unit": null,
+      "Addr": 16393,
+      "Xishu": 1.0,
+      "RealDevNo": 587,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 8
+    },
+    {
+      "No": 9,
+      "Name": "设备[0]-总有功功率_VA(负荷侧_保护采集)-实时库号[605]",
+      "Unit": null,
+      "Addr": 16394,
+      "Xishu": 1.0,
+      "RealDevNo": 605,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 9
+    },
+    {
+      "No": 10,
+      "Name": "设备[0]-总无功功率_VAR(负荷侧_保护采集)-实时库号[606]",
+      "Unit": null,
+      "Addr": 16395,
+      "Xishu": 1.0,
+      "RealDevNo": 606,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 10
+    },
+    {
+      "No": 11,
+      "Name": "设备[0]-功率因数_0.1%(负荷侧_保护采集)-实时库号[607]",
+      "Unit": null,
+      "Addr": 16396,
+      "Xishu": 1.0,
+      "RealDevNo": 607,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 11
+    },
+    {
+      "No": 12,
+      "Name": "设备[0]-备用遥测7-实时库号[61]",
+      "Unit": null,
+      "Addr": 16397,
+      "Xishu": 1.0,
+      "RealDevNo": 61,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 12
+    },
+    {
+      "No": 13,
+      "Name": "设备[0]-备用遥测8-实时库号[62]",
+      "Unit": null,
+      "Addr": 16398,
+      "Xishu": 1.0,
+      "RealDevNo": 62,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 13
+    },
+    {
+      "No": 14,
+      "Name": "设备[0]-备用遥测9-实时库号[63]",
+      "Unit": null,
+      "Addr": 16399,
+      "Xishu": 1.0,
+      "RealDevNo": 63,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 14
+    },
+    {
+      "No": 15,
+      "Name": "设备[0]-备用遥测10-实时库号[64]",
+      "Unit": null,
+      "Addr": 16400,
+      "Xishu": 1.0,
+      "RealDevNo": 64,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 15
+    },
+    {
+      "No": 16,
+      "Name": "设备[2]-备用遥测11-实时库号[144]",
+      "Unit": null,
+      "Addr": 16401,
+      "Xishu": 1.0,
+      "RealDevNo": 144,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 16
+    },
+    {
+      "No": 17,
+      "Name": "设备[2]-备用遥测12-实时库号[145]",
+      "Unit": null,
+      "Addr": 16402,
+      "Xishu": 1.0,
+      "RealDevNo": 145,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 17
+    },
+    {
+      "No": 18,
+      "Name": "设备[2]-备用遥测13-实时库号[146]",
+      "Unit": null,
+      "Addr": 16403,
+      "Xishu": 1.0,
+      "RealDevNo": 146,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 18
+    },
+    {
+      "No": 19,
+      "Name": "设备[2]-备用遥测14-实时库号[147]",
+      "Unit": null,
+      "Addr": 16404,
+      "Xishu": 1.0,
+      "RealDevNo": 147,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 19
+    },
+    {
+      "No": 20,
+      "Name": "设备[2]-备用遥测15-实时库号[148]",
+      "Unit": null,
+      "Addr": 16405,
+      "Xishu": 1.0,
+      "RealDevNo": 148,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 20
+    },
+    {
+      "No": 21,
+      "Name": "设备[2]-备用遥测16-实时库号[149]",
+      "Unit": null,
+      "Addr": 16406,
+      "Xishu": 1.0,
+      "RealDevNo": 149,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 21
+    },
+    {
+      "No": 22,
+      "Name": "设备[2]-备用遥测17-实时库号[150]",
+      "Unit": null,
+      "Addr": 16407,
+      "Xishu": 1.0,
+      "RealDevNo": 150,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 22
+    },
+    {
+      "No": 23,
+      "Name": "设备[2]-备用遥测18-实时库号[151]",
+      "Unit": null,
+      "Addr": 16408,
+      "Xishu": 1.0,
+      "RealDevNo": 151,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 23
+    },
+    {
+      "No": 24,
+      "Name": "设备[2]-备用遥测19-实时库号[152]",
+      "Unit": null,
+      "Addr": 16409,
+      "Xishu": 1.0,
+      "RealDevNo": 152,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 24
+    }
+  ],
+  "YXDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[2]-备用遥信17-实时库号[126]",
+      "Unit": null,
+      "Addr": 1,
+      "Xishu": 1.0,
+      "RealDevNo": 126,
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
+    },
+    {
+      "No": 1,
+      "Name": "设备[0]-第1路硬遥信-实时库号[9]",
+      "Unit": null,
+      "Addr": 2,
+      "Xishu": 1.0,
+      "RealDevNo": 9,
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 1
+    },
+    {
+      "No": 2,
+      "Name": "设备[2]-备用遥信17-实时库号[126]",
+      "Unit": null,
+      "Addr": 3,
+      "Xishu": 1.0,
+      "RealDevNo": 126,
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 2
+    },
+    {
+      "No": 3,
+      "Name": "设备[2]-备用遥信18-实时库号[127]",
+      "Unit": null,
+      "Addr": 4,
+      "Xishu": 1.0,
+      "RealDevNo": 127,
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 3
+    },
+    {
+      "No": 4,
+      "Name": "设备[2]-备用遥信19-实时库号[128]",
+      "Unit": null,
+      "Addr": 5,
+      "Xishu": 1.0,
+      "RealDevNo": 128,
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 4
+    },
+    {
+      "No": 5,
+      "Name": "设备[2]-备用遥信20-实时库号[129]",
+      "Unit": null,
+      "Addr": 6,
+      "Xishu": 1.0,
+      "RealDevNo": 129,
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 5
+    },
+    {
+      "No": 6,
+      "Name": "设备[2]-备用遥信21-实时库号[130]",
+      "Unit": null,
+      "Addr": 7,
+      "Xishu": 1.0,
+      "RealDevNo": 130,
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 6
+    },
+    {
+      "No": 7,
+      "Name": "设备[2]-备用遥信22-实时库号[131]",
+      "Unit": null,
+      "Addr": 8,
+      "Xishu": 1.0,
+      "RealDevNo": 131,
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 7
+    },
+    {
+      "No": 8,
+      "Name": "设备[2]-备用遥信23-实时库号[132]",
+      "Unit": null,
+      "Addr": 9,
+      "Xishu": 1.0,
+      "RealDevNo": 132,
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 8
+    },
+    {
+      "No": 9,
+      "Name": "设备[2]-备用遥信24-实时库号[133]",
+      "Unit": null,
+      "Addr": 10,
+      "Xishu": 1.0,
+      "RealDevNo": 133,
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 9
+    },
+    {
+      "No": 10,
+      "Name": "设备[2]-备用遥信25-实时库号[134]",
+      "Unit": null,
+      "Addr": 11,
+      "Xishu": 1.0,
+      "RealDevNo": 134,
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 10
+    },
+    {
+      "No": 11,
+      "Name": "设备[2]-备用遥信26-实时库号[135]",
+      "Unit": null,
+      "Addr": 12,
+      "Xishu": 1.0,
+      "RealDevNo": 135,
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 11
+    }
+  ],
+  "YKDataItem": [
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 0,
+      "No": 0,
+      "Name": "设备[0]-同期合闸遥控分-实时库号[617]",
+      "Unit": null,
+      "Addr": 24577,
+      "RealDevNo": 18000,
+      "type": 2,
+      "CurrentValue": 0.0,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 3,
+      "No": 1,
+      "Name": "设备[0]-同期合闸遥控合-实时库号[618]",
+      "Unit": null,
+      "Addr": 24577,
+      "RealDevNo": 18001,
+      "type": 2,
+      "CurrentValue": 0.0,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 0,
+      "No": 2,
+      "Name": "设备[1]-设备自身遥控1-实时库号[70]",
+      "Unit": null,
+      "Addr": 24578,
+      "RealDevNo": 1,
+      "type": 2,
+      "CurrentValue": 0.0,
+      "Idx": 0
+    },
+    {
+      "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
+      "Xishu": 0.0,
+      "YkValue": 3,
+      "No": 3,
+      "Name": "设备[1]-设备自身遥控2-实时库号[71]",
+      "Unit": null,
+      "Addr": 24578,
+      "RealDevNo": 2,
+      "type": 2,
+      "CurrentValue": 0.0,
+      "Idx": 0
+    }
+  ],
+  "DDDataItem": []
+}
