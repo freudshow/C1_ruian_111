@@ -1,0 +1,57 @@
+{
+  "DataItem": [
+    {
+      "RtDBNo": 266,
+      "Ratio": 1.0,
+      "desc": "A相电流",
+      "Unit": "A",
+      "dead": 1.0,
+      "type": 1
+    },
+    {
+      "RtDBNo": 267,
+      "Ratio": 1.0,
+      "desc": "B相电流",
+      "Unit": "A",
+      "dead": 1.0,
+      "type": 1
+    },
+    {
+      "RtDBNo": 268,
+      "Ratio": 1.0,
+      "desc": "C相电流",
+      "Unit": "A",
+      "dead": 1.0,
+      "type": 1
+    },
+    {
+      "RtDBNo": 269,
+      "Ratio": 1.0,
+      "desc": "A相电压",
+      "Unit": "V",
+      "dead": 1.0,
+      "type": 1
+    },
+    {
+      "RtDBNo": 270,
+      "Ratio": 1.0,
+      "desc": "B相电压",
+      "Unit": "V",
+      "dead": 1.0,
+      "type": 1
+    },
+    {
+      "RtDBNo": 271,
+      "Ratio": 1.0,
+      "desc": "C相电压",
+      "Unit": "V",
+      "dead": 1.0,
+      "type": 1
+    }
+  ],
+  "OnPageKeep": 5,
+  "LoopFreq": 5,
+  "SupHardKey": 1,
+  "SplitRow": 1,
+  "DescWidth": 8
+}

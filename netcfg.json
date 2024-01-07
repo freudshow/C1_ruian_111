@@ -123,7 +123,12 @@
           "RemotePort": 1000,
           "SocketChannelNo": 0,
           "NetChannelNo": 10,
-          "TcpServerSet": null
+          "TcpServerSet": [
+            {
+              "No": 0,
+              "ClientIp": "11.0.64.7"
+            }
+          ]
         },
         {
           "linkno": 7,
