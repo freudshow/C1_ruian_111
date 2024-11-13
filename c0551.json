@@ -7,7 +7,8 @@
     "HardYxOn": 10,
     "HardYxOff": 11,
     "PhvNo": 222,
-    "YkContinueTime": 2
+    "YkContinueTime": 2,
+    "CheckTimeout": 10000
   },
   "ParaSet_On": [
     {
@@ -73,7 +74,7 @@
     {
       "No": 6,
       "Name": "同期合闸允许的进线_出线间的频率差",
-      "val": 99,
+      "val": 200,
       "unit": "0.01Hz",
       "rtdbpos1": 604,
       "rtdbpos2": 611,
