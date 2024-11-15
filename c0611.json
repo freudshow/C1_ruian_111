@@ -87,7 +87,6 @@
       "Xishu": 0.1,
       "RealDevNo": 581,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 0
     },
     {
@@ -98,7 +97,6 @@
       "Xishu": 0.1,
       "RealDevNo": 582,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 1
     },
     {
@@ -109,7 +107,6 @@
       "Xishu": 0.1,
       "RealDevNo": 583,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 2
     },
     {
@@ -120,7 +117,6 @@
       "Xishu": 1.0,
       "RealDevNo": 269,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 3
     },
     {
@@ -131,7 +127,6 @@
       "Xishu": 1.0,
       "RealDevNo": 270,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 4
     },
     {
@@ -142,7 +137,6 @@
       "Xishu": 1.0,
       "RealDevNo": 271,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 5
     },
     {
@@ -153,7 +147,6 @@
       "Xishu": 1.0,
       "RealDevNo": 266,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 6
     },
     {
@@ -164,7 +157,6 @@
       "Xishu": 1.0,
       "RealDevNo": 267,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 7
     },
     {
@@ -175,7 +167,6 @@
       "Xishu": 1.0,
       "RealDevNo": 268,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 8
     },
     {
@@ -186,7 +177,6 @@
       "Xishu": 0.001,
       "RealDevNo": 443,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 9
     },
     {
@@ -197,7 +187,6 @@
       "Xishu": 0.001,
       "RealDevNo": 444,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 10
     },
     {
@@ -208,7 +197,6 @@
       "Xishu": 1.0,
       "RealDevNo": 284,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 11
     },
     {
@@ -219,7 +207,6 @@
       "Xishu": 1.0,
       "RealDevNo": 61,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 12
     },
     {
@@ -230,7 +217,6 @@
       "Xishu": 1.0,
       "RealDevNo": 62,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 13
     },
     {
@@ -241,7 +227,6 @@
       "Xishu": 1.0,
       "RealDevNo": 63,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 14
     },
     {
@@ -252,7 +237,6 @@
       "Xishu": 1.0,
       "RealDevNo": 64,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 15
     },
     {
@@ -263,7 +247,6 @@
       "Xishu": 1.0,
       "RealDevNo": 144,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 16
     },
     {
@@ -274,7 +257,6 @@
       "Xishu": 1.0,
       "RealDevNo": 145,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 17
     },
     {
@@ -285,7 +267,6 @@
       "Xishu": 1.0,
       "RealDevNo": 146,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 18
     },
     {
@@ -296,7 +277,6 @@
       "Xishu": 1.0,
       "RealDevNo": 147,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 19
     },
     {
@@ -307,7 +287,6 @@
       "Xishu": 1.0,
       "RealDevNo": 148,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 20
     },
     {
@@ -318,7 +297,6 @@
       "Xishu": 1.0,
       "RealDevNo": 149,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 21
     },
     {
@@ -329,7 +307,6 @@
       "Xishu": 1.0,
       "RealDevNo": 150,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 22
     },
     {
@@ -340,7 +317,6 @@
       "Xishu": 1.0,
       "RealDevNo": 151,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 23
     },
     {
@@ -351,7 +327,6 @@
       "Xishu": 1.0,
       "RealDevNo": 152,
       "type": 1,
-      "CurrentValue": 0.0,
       "Idx": 24
     }
   ],
@@ -364,7 +339,6 @@
       "Xishu": 1.0,
       "RealDevNo": 126,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 0
     },
     {
@@ -375,7 +349,6 @@
       "Xishu": 1.0,
       "RealDevNo": 9,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 1
     },
     {
@@ -386,7 +359,6 @@
       "Xishu": 1.0,
       "RealDevNo": 126,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 2
     },
     {
@@ -397,7 +369,6 @@
       "Xishu": 1.0,
       "RealDevNo": 127,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 3
     },
     {
@@ -408,7 +379,6 @@
       "Xishu": 1.0,
       "RealDevNo": 128,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 4
     },
     {
@@ -419,7 +389,6 @@
       "Xishu": 1.0,
       "RealDevNo": 129,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 5
     },
     {
@@ -430,7 +399,6 @@
       "Xishu": 1.0,
       "RealDevNo": 130,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 6
     },
     {
@@ -441,7 +409,6 @@
       "Xishu": 1.0,
       "RealDevNo": 131,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 7
     },
     {
@@ -452,7 +419,6 @@
       "Xishu": 1.0,
       "RealDevNo": 132,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 8
     },
     {
@@ -463,7 +429,6 @@
       "Xishu": 1.0,
       "RealDevNo": 133,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 9
     },
     {
@@ -474,7 +439,6 @@
       "Xishu": 1.0,
       "RealDevNo": 134,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 10
     },
     {
@@ -485,7 +449,6 @@
       "Xishu": 1.0,
       "RealDevNo": 135,
       "type": 0,
-      "CurrentValue": 0.0,
       "Idx": 11
     }
   ],
@@ -493,53 +456,49 @@
     {
       "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
       "Xishu": 0.0,
-      "YkValue": 0,
+      "YkValue": 1,
       "No": 0,
       "Name": "设备[0]-同期合闸遥控分-实时库号[617]",
       "Unit": null,
       "Addr": 24577,
       "RealDevNo": 18000,
       "type": 2,
-      "CurrentValue": 0.0,
       "Idx": 0
     },
     {
       "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
       "Xishu": 0.0,
-      "YkValue": 3,
+      "YkValue": 2,
       "No": 1,
       "Name": "设备[0]-同期合闸遥控合-实时库号[618]",
       "Unit": null,
       "Addr": 24577,
       "RealDevNo": 18001,
       "type": 2,
-      "CurrentValue": 0.0,
       "Idx": 0
     },
     {
       "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
       "Xishu": 0.0,
-      "YkValue": 0,
+      "YkValue": 1,
       "No": 2,
       "Name": "设备[1]-设备自身遥控1-实时库号[70]",
       "Unit": null,
       "Addr": 24578,
       "RealDevNo": 1,
       "type": 2,
-      "CurrentValue": 0.0,
       "Idx": 0
     },
     {
       "$type": "LTU.SelectedYkTable, 边缘网关维护软件",
       "Xishu": 0.0,
-      "YkValue": 3,
+      "YkValue": 2,
       "No": 3,
       "Name": "设备[1]-设备自身遥控2-实时库号[71]",
       "Unit": null,
       "Addr": 24578,
       "RealDevNo": 2,
       "type": 2,
-      "CurrentValue": 0.0,
       "Idx": 0
     }
   ],
